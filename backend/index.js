@@ -13,5 +13,4 @@ const t2 = performance.now();
 console.log(lib.sum(1,6),lib.diff(5,2));
 // console.log(sum(1,8),diff(5,3));
 
-
-console.log(t2-t1)
+console.log(t2-t1);
